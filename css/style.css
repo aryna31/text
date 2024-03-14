@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Barlow+Condensed&family=Ojuju:wght@200..800&display=swap');
+
+body {
+    background-color: rgb(232, 208, 255);
+}
+#p1{
+    color: #3f0186;
+    text-align: justify;
+    text-indent: 31px;
+    word-spacing: 2px;
+    font-family: "Ojuju", sans-serif;
+    font-size: 2em;
+}
+h3{
+    text-decoration-line: overline;
+    text-decoration-color: #471566;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 2px;
+    letter-spacing: 1px;
+    line-height: 310%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2vw;
+}
+#ac{
+    text-align: center;
+    text-transform: uppercase;
+    /* umbra, blurarea-rasplivcitosti, culoarea umbrei */
+    text-shadow: 2px 2px 2px lightslategray; 
+}
+#as{
+    text-align: left;
+    text-transform: lowercase;
+    font-style: italic;
+}
+#ad{
+    text-align: right;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-variant: small-caps;
+}
